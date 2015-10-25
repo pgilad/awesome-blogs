@@ -8,6 +8,7 @@
 * [Glen Maddern](http://glenmaddern.com/articles)
 * [Stéphane Derosiaux](http://ctheu.com/)
 * [Matthew Sojourner Newton](http://blog.mnewton.com/)
+* [Zaiste](http://zaiste.net/flux/)
 
 ## License
 
