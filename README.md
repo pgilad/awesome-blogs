@@ -9,6 +9,7 @@
 * [Stéphane Derosiaux](http://ctheu.com/)
 * [Matthew Sojourner Newton](http://blog.mnewton.com/)
 * [Zaiste](http://zaiste.net/flux/)
+* [Tero Parviainen](http://teropa.info/)
 
 ## License
 
