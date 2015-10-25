@@ -4,7 +4,10 @@
 ## Tech
 
 * [A geek with a hat](http://swizec.com/blog/) by Swizec Teller
-
+* [Chad Lee](http://chadly.net/)
+* [Glen Maddern](http://glenmaddern.com/articles)
+* [Stéphane Derosiaux](http://ctheu.com/)
+* [Matthew Sojourner Newton](http://blog.mnewton.com/)
 
 ## License
 
