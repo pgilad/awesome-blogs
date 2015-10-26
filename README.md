@@ -15,6 +15,7 @@
 * [James Long](http://jlongster.com/)
 * [Random Thoughts of a Happy Programmer](http://www.rdegges.com/archives/) by Randall Degges
 * [Josh Davis](https://joshldavis.com/posts/)
+* [RisingStack Engineering](https://blog.risingstack.com/)
 
 ## License
 
