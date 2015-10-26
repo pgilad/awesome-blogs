@@ -17,6 +17,8 @@
 * [Josh Davis](https://joshldavis.com/posts/)
 * [RisingStack Engineering](https://blog.risingstack.com/)
 * [Zach Holman](http://zachholman.com/)
+* [Patspam](http://blog.patspam.com/)
+
 
 ## License
 
