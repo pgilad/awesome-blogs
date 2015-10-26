@@ -13,6 +13,7 @@
 * [Szymon Witamborski](http://www.brainshave.com/blog/)
 * [Keith Smiley](http://www.smileykeith.com/)
 * [James Long](http://jlongster.com/)
+* [Random Thoughts of a Happy Programmer](http://www.rdegges.com/archives/) by Randall Degges
 
 ## License
 
