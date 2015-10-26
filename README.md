@@ -12,6 +12,7 @@
 * [Tero Parviainen](http://teropa.info/)
 * [Szymon Witamborski](http://www.brainshave.com/blog/)
 * [Keith Smiley](http://www.smileykeith.com/)
+* [James Long](http://jlongster.com/)
 
 ## License
 
