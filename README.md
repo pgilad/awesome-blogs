@@ -10,6 +10,8 @@
 * [Matthew Sojourner Newton](http://blog.mnewton.com/)
 * [Zaiste](http://zaiste.net/flux/)
 * [Tero Parviainen](http://teropa.info/)
+* [Szymon Witamborski](http://www.brainshave.com/blog/)
+* [Keith Smiley](http://www.smileykeith.com/)
 
 ## License
 
