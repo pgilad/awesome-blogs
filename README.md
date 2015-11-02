@@ -20,6 +20,7 @@
 * [Patspam](http://blog.patspam.com/)
 * [Christian Alfoni](http://www.christianalfoni.com/)
 * [Vincent Prouillet](http://vincent.is/)
+* [CloudNative](https://cloudnative.io/blog/)
 
 
 ## License
