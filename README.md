@@ -19,6 +19,7 @@
 * [Zach Holman](http://zachholman.com/)
 * [Patspam](http://blog.patspam.com/)
 * [Christian Alfoni](http://www.christianalfoni.com/)
+* [Vincent Prouillet](http://vincent.is/)
 
 
 ## License
