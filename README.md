@@ -3,6 +3,9 @@
 
 ## Tech
 
+* [Dan Luu](https://danluu.com/)
+* [André Staltz](https://staltz.com/blog.html)
+* [Joel On Software](https://www.joelonsoftware.com/)
 * [A geek with a hat](http://swizec.com/blog/) by Swizec Teller
 * [Chad Lee](http://chadly.net/)
 * [Glen Maddern](http://glenmaddern.com/articles)
@@ -21,7 +24,6 @@
 * [Christian Alfoni](http://www.christianalfoni.com/)
 * [Vincent Prouillet](http://vincent.is/)
 * [CloudNative](https://cloudnative.io/blog/) - DevOps and optimizations
-
 
 ## License
 
