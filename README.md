@@ -24,6 +24,7 @@
 * [Christian Alfoni](http://www.christianalfoni.com/)
 * [Vincent Prouillet](http://vincent.is/)
 * [CloudNative](https://cloudnative.io/blog/) - DevOps and optimizations
+* [Nikita Sobolev](https://sobolevn.me) - On good software, mediocre software, and bad software
 
 ## License
 
