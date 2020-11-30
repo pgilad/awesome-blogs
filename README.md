@@ -31,4 +31,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [pgilad](https://github.com/pgilad) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Gilad Peleg](https://www.giladpeleg.com) has waived all copyright and related or neighboring rights to this work.
