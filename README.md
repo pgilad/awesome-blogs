@@ -25,6 +25,7 @@
 * [Vincent Prouillet](http://vincent.is/)
 * [CloudNative](https://cloudnative.io/blog/) - DevOps and optimizations
 * [Nikita Sobolev](https://sobolevn.me) - On good software, mediocre software, and bad software
+* [Drew DeVault's blog](https://drewdevault.com/) - A pretty well-mixed blog that talks about FOSS
 
 ## License
 
