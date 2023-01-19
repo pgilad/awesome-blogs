@@ -10,9 +10,8 @@
 * [Chad Lee](http://chadly.net/)
 * [Glen Maddern](http://glenmaddern.com/articles)
 * [Matthew Sojourner Newton](http://blog.mnewton.com/)
-* [Zaiste](http://zaiste.net/flux/)
+* [Zaiste](https://zaiste.net/posts/)
 * [Tero Parviainen](http://teropa.info/)
-* [Szymon Witamborski](http://www.brainshave.com/blog/)
 * [Keith Smiley](http://www.smileykeith.com/)
 * [James Long](http://jlongster.com/)
 * [Random Thoughts of a Happy Programmer](http://www.rdegges.com/archives/) by Randall Degges
