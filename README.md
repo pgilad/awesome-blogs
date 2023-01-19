@@ -14,14 +14,11 @@
 * [Tero Parviainen](http://teropa.info/)
 * [Keith Smiley](http://www.smileykeith.com/)
 * [James Long](http://jlongster.com/)
-* [Random Thoughts of a Happy Programmer](http://www.rdegges.com/archives/) by Randall Degges
+* [Random Thoughts of a Happy Programmer](http://www.rdegges.com/)
 * [Josh Davis](https://joshldavis.com/posts/)
 * [RisingStack Engineering](https://blog.risingstack.com/)
 * [Zach Holman](http://zachholman.com/)
-* [Patspam](http://blog.patspam.com/)
 * [Christian Alfoni](http://www.christianalfoni.com/)
-* [Vincent Prouillet](http://vincent.is/)
-* [CloudNative](https://cloudnative.io/blog/) - DevOps and optimizations
 * [Nikita Sobolev](https://sobolevn.me) - On good software, mediocre software, and bad software
 * [Drew DeVault's blog](https://drewdevault.com/) - A pretty well-mixed blog that talks about FOSS
 
